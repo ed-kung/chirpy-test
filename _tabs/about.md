@@ -5,7 +5,7 @@ icon: fas fa-user
 order: 1
 ---
 
-<img src="/assets/img/myphoto.jpg" width="120" class="center">
+<img src="/chirpy-test/assets/img/myphoto.jpg" width="120" class="center">
 
 My name is Edward Kung.
 
@@ -17,5 +17,5 @@ I am a husband and the father of two children.
 
 I live in Los Angeles and attend church at [Immanuel Bible Church](https://ibcbible.org){:target="_blank"}.
 
-My [academic work](/research) focuses on housing, urban, and real estate economics. More generally, I am interested in using data to creatively solve problems and to answer challenging questions.  I am available for consulting.  Feel free to reach out to me about my work!
+My [academic work](/chirpy-test/research) focuses on housing, urban, and real estate economics. More generally, I am interested in using data to creatively solve problems and to answer challenging questions.  I am available for consulting.  Feel free to reach out to me about my work!
 
