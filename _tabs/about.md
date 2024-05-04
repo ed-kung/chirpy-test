@@ -5,7 +5,7 @@ icon: fas fa-user
 order: 1
 ---
 
-<img src="/chirpy-test/assets/img/myphoto.jpg" width="120" class="center">
+<img src="/assets/img/myphoto.jpg" width="120" class="center">
 
 My name is Edward Kung.
 
