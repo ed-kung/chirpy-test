@@ -65,14 +65,14 @@ edited by Stuart Gabriel, Danny Ben-Shahar, and Stephen Oliner
 
 I'm not actively working on these papers, but feel free to take a look and see if they're useful.
 
-[Interest Rates and Housing Market Dynamics in a Housing Search Model](/assets/pdf/ak_search_summer2018_v3.pdf){:target="_blank"}<br>
+[Interest Rates and Housing Market Dynamics in a Housing Search Model](/chirpy-test/assets/pdf/ak_search_summer2018_v3.pdf){:target="_blank"}<br>
 *with Elliot Anenberg*
 
-[Credit Constraints and Residential Sorting](/assets/pdf/km_constraints_2015_09_14.pdf){:target="_blank"}<br>
+[Credit Constraints and Residential Sorting](/chirpy-test/assets/pdf/km_constraints_2015_09_14.pdf){:target="_blank"}<br>
 *with Ralph Mastromonaco*
 
-[The Effect of Credit Availability on House Prices: Evidence from the Economic Stimulus Act of 2008](/assets/pdf/k_cll_2015apr.pdf){:target="_blank"}
+[The Effect of Credit Availability on House Prices: Evidence from the Economic Stimulus Act of 2008](/chirpy-test/assets/pdf/k_cll_2015apr.pdf){:target="_blank"}
 
-[Mortgage Market Institutions and Housing Market Outcomes](/assets/pdf/k_housingstructural_2015_03.pdf){:target="_blank"}<br>
-([Online Appendix](/assets/pdf/k_housingstructural_apdx_2015_03.pdf){:target="_blank"})
+[Mortgage Market Institutions and Housing Market Outcomes](/chirpy-test/assets/pdf/k_housingstructural_2015_03.pdf){:target="_blank"}<br>
+([Online Appendix](/chirpy-test/assets/pdf/k_housingstructural_apdx_2015_03.pdf){:target="_blank"})
 
