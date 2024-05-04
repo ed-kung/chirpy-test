@@ -5,7 +5,7 @@ icon: fas fa-user
 order: 1
 ---
 
-<img src="/assets/img/myphoto.jpg" width="120" class="center">
+<img src="/assets/img/myphoto.jpg" width="120" class="center" alt="my photo">
 
 My name is Edward Kung.
 
